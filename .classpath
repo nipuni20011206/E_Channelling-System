@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Desktop/jars/javax.servlet-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Desktop/jars/mysql-connector-java-5.1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Desktop/jars/servlet-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Dell/Desktop/jars/jackson-core-2.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Desktop/jars/jackson-core-2.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Desktop/jars/jackson-databind-2.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Desktop/jars/jakarta.activation-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Desktop/jars/jakarta.el-api-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Desktop/jars/jakarta.servlet.jsp.jstl-api-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Desktop/jars/jakarta.servlet-api-4.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Desktop/jars/jakarta.servlet-api-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Desktop/jars/junit-4.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Desktop/jars/log4j2-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Desktop/jars/log4j-api-2.17.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Desktop/jars/log4j-core-2.17.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
